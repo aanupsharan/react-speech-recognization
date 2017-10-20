@@ -1,0 +1,11 @@
+.Header{
+	height: 100px;
+	background-color: #00b359;
+	margin-top: -18px;
+	text-align: center;
+	padding-top: 25px;
+}
+
+.HeaderLine{
+	color: #ffffff;
+}
