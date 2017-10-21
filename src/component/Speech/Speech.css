@@ -1,0 +1,17 @@
+.Speech{
+	text-align: center;
+}
+.SpeechListening{
+	font-weight: normal;
+	font-style: italic;
+}
+.FinalText{
+	font-weight: normal;
+}
+.buttonClick{
+	background-color: #00b359;
+	color: #ffffff;
+	width: 88px;
+	height: 32px;
+	border-radius: 5px;
+}
