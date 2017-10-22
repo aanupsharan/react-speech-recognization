@@ -1,11 +1,11 @@
-#React-Speech-To-Text
+# React-Speech-To-Text
 
 1. __Installation steps for the project__
 2. __Code Snippet And Dependencies__
 3. __References__
 
 
-##Installation steps for the project
+## Installation steps for the project
 
 After cloning the project follow below steps.
 
@@ -22,7 +22,7 @@ npm start
 
 You will get an user interface with click me button. Click it and start talking
 
-##Code Snippet And Dependencies
+## Code Snippet And Dependencies
 
 The main dependency for the project is [speech-to-text](https://www.npmjs.com/package/speech-to-text) which already added in the package.json. To get the package we can run below command.
 
@@ -57,7 +57,7 @@ listenToUser(){
 	}
 
 ```
-##References
+## References
 
 - https://github.com/magician11/speech-to-text
 - https://www.npmjs.com/package/speech-to-text
